@@ -1,0 +1,7 @@
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\bin\Debug\Sistem Penggajian Perusahaan.exe.config
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\bin\Debug\Sistem Penggajian Perusahaan.exe
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\bin\Debug\Sistem Penggajian Perusahaan.pdb
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\obj\Debug\Sistem Penggajian Perusahaan.csproj.AssemblyReference.cache
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\obj\Debug\Sistem Penggajian Perusahaan.csproj.CoreCompileInputs.cache
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\obj\Debug\Sistem Penggajian Perusahaan.exe
+D:\CollYeahh\Semester 2\Pemrograman\Sistem Penggajian Perusahaan\Sistem Penggajian Perusahaan\obj\Debug\Sistem Penggajian Perusahaan.pdb
