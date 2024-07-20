@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Sistem_Penggajian_Perusahaan
 {
+    public interface iKaryawan{
+        string nama {get; set;}
+        string StatusKaryawan {get; set;}
+    }
+
     // abstraction
-    public abstract class Karyawan
+    public abstract class Karyawan:iKaryawan
     {
         public string nama { get; set; }
         public string StatusKaryawan { get; set; }
